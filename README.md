@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ApollyonVB
+- 👀 I’m interested in system development 
+- 🌱 I’m currently learning programming languages
+- 📫 You can reach me on twitter or you can send an email: griim.78@gmai.com
